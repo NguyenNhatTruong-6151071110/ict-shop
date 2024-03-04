@@ -18,13 +18,6 @@ data source là server name
 
 Lưu lại. build lại ứng dụng . Và run
 
-Đăng nhập :
-- Tài khoản khách hàng: 
-tk : Khach@gmail.com 
-mk 12345678
-- Tài khoản admin trang quản trị :
-tk : Admin@gmail.com
-mk : 12345678
 
 Phân quyền quản trị và khách hàng
 
@@ -35,5 +28,3 @@ Có thể chỉnh sửa giỏ hàng >
 Kích vào hình ảnh để xem chi tiết sản phẩm
 
 Đăng nhập tài khoản admin để thêm sửa xóa sản phẩm và các danh mục khác.
-
-Project làm đang còn trên mức độ tìm hiểu , tham khảo cho sinh viên. Chưa hoàn thiện .
